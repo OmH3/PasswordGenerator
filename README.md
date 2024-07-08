@@ -20,7 +20,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/OmH3/01PASSWORDGENERATOR.git
+git clone https://github.com/OmH3/PasswordGenerator.git
 cd password-generator-app
 Install dependencies:
 
