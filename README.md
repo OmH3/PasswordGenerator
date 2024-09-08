@@ -42,10 +42,4 @@ Usage
 Adjust the password length using the slider.
 Check/uncheck the "Numbers" and "Character" checkboxes to include/exclude them in the generated passwords.
 Click the "copy" button next to the generated password to copy it to your clipboard.
-Preview
 
-Contributing
-Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or a pull request on GitHub.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
